@@ -9,18 +9,22 @@ push if want to create gulo >:(
 "commit" for something to add up sa current respective branch project (preferably new txt file)
 Create a "pull request" if want to change something dun sa "commit"
 <br>
+<br>
+<br>
 
->eg. 
+##eg. 
 WANT TO EDIT SCHEDPLAN.xlsx 
-then do this:
+then follow this tutorial:
 
-1. Setup git in your terminal
+`https://kbroman.org/github_tutorial/pages/fork.html`
+
+
+1. Setup git in your terminal (needs git account)
 2. Clone the repository (if not yet cloned)
 3. Open your local copy (the repository u cloned) of schedplan.xlsx
 4. do your changes and save it
-5. to upload your changes for the repository, commit it by using:
+5. to upload your changes for the repository, create a pull request
 
-`git commit -a`
  
 
 
