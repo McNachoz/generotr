@@ -12,9 +12,9 @@ Create a "pull request" if want to change something dun sa "commit"
 <br>
 <br>
 
-##eg. 
+## eg
 WANT TO EDIT SCHEDPLAN.xlsx 
-then follow this tutorial:
+ples follow this tutorial:
 
 `https://kbroman.org/github_tutorial/pages/fork.html`
 
