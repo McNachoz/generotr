@@ -10,6 +10,11 @@ push if want to create gulo >:(
 Create a "pull request" if want to change something dun sa "commit"
 
 
+.
+.
+.
+.
+.
 
 # file structure
 ## Prototypes:
