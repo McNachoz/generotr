@@ -17,7 +17,7 @@ then do this:
 3. Open your local copy (the repository u cloned) of schedplan.xlsx
 4. do your changes and save it
 5. to upload your changes for the repository, commit it by using:
-## git commit -a
+### git commit -a
  
 
 
