@@ -8,3 +8,22 @@ push if want to create gulo >:(
 
 "commit" for something to add up sa current respective branch project (preferably new txt file)
 Create a "pull request" if want to change something dun sa "commit"
+
+
+
+# file structure
+## Prototypes:
+	- yt videos
+
+## Feriish whel:
+	- excel file (schematic + materials + 2d parts in detail)
+
+	### 3d parts:
+		- blend, obj, or any cad file
+
+
+## Generator:
+	- excel file (schematic + materials + 2d parts in detail)
+	
+	### 3d parts:
+		- blend, obj, or any cad file
